@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carolraydan" alt="carolraydan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [carolistical.github.io](carolistical.github.io)
+- 👨‍💻 All of my projects are available at [carolraydan.github.io](carolraydan.github.io)
 
 - 📫 How to reach me **carol.raydan@hotmail.com**
 
