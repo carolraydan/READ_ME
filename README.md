@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there nerd ;) , I'm Carol Raydan</h1>
+<h1 align="center">Hey there ;) , I'm Carol Raydan</h1>
 <h3 align="center">I am a 23 year old aspiring polymath, with an interest and specialization within applications of business solutions using state of the art AI/ML techniques.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carolraydan&label=Profile%20views&color=0e75b6&style=flat" alt="carolraydan" /> </p>
